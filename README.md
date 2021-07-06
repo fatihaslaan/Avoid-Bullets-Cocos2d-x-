@@ -1,2 +1,2 @@
 # Avoid-Bullets-Cocos2d-x-
-My First Cocos2d-x Project
+You Have To Dodge Bullets To Live Longer!
